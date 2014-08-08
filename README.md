@@ -6,7 +6,7 @@ ARM-low-level-embedded-programing-in-Nintendo-DS-
 
 
 Authors:
-========
+Juan Francisco Exposito Lao, Esteban Dorado Roldan========
 
 
 
